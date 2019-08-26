@@ -63,5 +63,6 @@ class ExpenseServiceTest {
         });
 
         // then
+        exception.getMessage();
     }
 }
